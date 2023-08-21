@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" A module for test Base class """
+""" Module for test Base class """
 import unittest
 from models.base import Base
 from models.square import Square
